@@ -1,0 +1,2 @@
+pubilc mian void {
+}
